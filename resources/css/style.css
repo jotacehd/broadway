@@ -2,3 +2,48 @@ body {
   text-align: center;
   font-family: Helvetica;
 }
+h1, h2, h3, .midle_title {
+  font-weight: bold;
+}
+h1 {
+  font-size: 70px;
+  color: #fff;
+}
+h2 {
+  font-size: 32px;
+}
+h3 {
+  font-size: 23px;
+}
+p {
+  font-size: 14px;
+}
+.main-header {
+  background-image: url("../../resources/images/the-flatiron-building.png");
+}
+ul.menu-list {
+    display: inline;
+}
+.menu-list li {
+    list-style: none;
+    font-size: 18px;
+}
+.menu-list li a {
+    color: #fff;
+}
+.midle_title {
+  font-size: 23px;
+  color: #fff;
+  background-image: url("../../resources/images/the-flatiron-building.png");
+}
+.footer-bg {
+  background-color: dimgray;
+  color: #fff;
+  text-align: left;
+}
+.copy-right{
+  font-size: 11px;
+}
+a.links_footer {
+    color: #fff;
+}
